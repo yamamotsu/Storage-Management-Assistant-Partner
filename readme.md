@@ -3,7 +3,7 @@
 ### この文書について
 
 このドキュメントは大分県技術・市場交流プラザ大分(以下プラザ大分)が企画している製品開発プロジェクト
-Strage Management Asistant Partner(以下SMAP)の第一フェーズの開発資料です.
+Storage Management Assistant Partner(以下SMAP)の第一フェーズの開発資料です.
 
 
 ### フェーズ1 開発内容

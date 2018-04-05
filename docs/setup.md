@@ -1,7 +1,5 @@
 # Raspberry Piセットアップ
 
----
-
 RaspberryPiのセットアップ(初期設定)を行います.  
 RaspberryPiは本体のMicroSDカードスロットに挿入されたMicroSDカードから  
 OSのイメージを読みだして動作します.  
@@ -83,7 +81,5 @@ ufwを用いたファイアウォールの設定の仕方を詳しく知りた�
 [http://make.bcde.jp/raspberry-piファイヤーウォールの設定/](http://make.bcde.jp/raspberry-pi/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E3%81%AE%E8%A8%AD%E5%AE%9A/)
 
 # Nodejsインストール+スクリプト作成+実行
-
----
 
 [こちら](https://qiita.com/yamamotsu/items/a35a30a28523a3f51042)の記事に投稿しました.
